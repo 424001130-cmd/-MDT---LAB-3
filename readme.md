@@ -108,5 +108,3 @@ Clinic-Appointment-Tracker/
 **Course Coverage:** Weeks 7–11  
 
 ---
-
-*This project is intended for educational purposes and demonstrates basic healthcare appointment management functionality.*
